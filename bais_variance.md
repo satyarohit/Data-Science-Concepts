@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/satyarohit/Data-Science-Concepts/blob/main/images/over_under.PNG)<br/>
 ![alt text](https://github.com/satyarohit/Data-Science-Concepts/blob/main/images/bais_vari.PNG)<br/>
 HIGH Bais: Too simple model<br/>
 **What is Bias?**<br/>
