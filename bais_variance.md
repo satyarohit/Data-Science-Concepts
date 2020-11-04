@@ -13,3 +13,5 @@ Simple definition: **“Resulted Error from Training Data!”**<br/>
 Variance is the variability of model prediction for a given data point or a value that tells us the spread of our data. A model with high variance pays a lot of attention to training data and does not generalize on the data which it hasn’t seen before.<br/>
 
 Simple definition: **“Resulted Error from Test Data!”**<br/>
+
+![alt text](https://github.com/satyarohit/Data-Science-Concepts/blob/main/images/graph1.PNG)
