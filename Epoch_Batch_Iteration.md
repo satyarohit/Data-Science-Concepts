@@ -1,4 +1,6 @@
-Lets understand it via Gradient Descent!
+![alt text](https://github.com/satyarohit/Data-Science-Concepts/blob/main/images/epoch.PNG) <br /> 
+**Lets understand it via Gradient Descent! **<br /> 
+
 We know in GD: <br /> 
 **Batch Gradient Descent-** Batch Size = Size of Training Set. <br /> 
 **Stochastic Gradient Descent.** - Batch Size = 1. <br /> 
