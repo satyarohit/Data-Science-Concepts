@@ -1,8 +1,8 @@
 Lets understand it via Gradient Descent!
 We know in GD: <br /> 
-Batch Gradient Descent- Batch Size = Size of Training Set. <br /> 
-Stochastic Gradient Descent. - Batch Size = 1. <br /> 
-Mini-Batch Gradient Descent. - 1 < Batch Size < Size of Training Set. <br /> 
+**Batch Gradient Descent-** Batch Size = Size of Training Set. <br /> 
+**Stochastic Gradient Descent.** - Batch Size = 1. <br /> 
+**Mini-Batch Gradient Descent.** - 1 < Batch Size < Size of Training Set. <br /> 
 
 **EPOCHs:** It is the number of times the whole training dataset is passed through the model.  <br /> 
 So in one epoch every data point has passed the model once. <br /> 
