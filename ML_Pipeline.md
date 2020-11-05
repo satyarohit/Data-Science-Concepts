@@ -1,6 +1,6 @@
 Pipelines are a simple way to keep your data preprocessing and modeling code organized. <br/>
 Specifically, a pipeline bundles preprocessing and modeling steps so you can use the whole bundle as if it were a single step.<br/>
-![alt text](https://github.com/satyarohit/Data-Science-Concepts/blob/main/images/mlpipe.PNG)
+![alt text](https://github.com/satyarohit/Data-Science-Concepts/blob/main/images/mlpipe.PNG)<br/>
 Pipelines have some important benefits. Those include:
 
 **Cleaner Code:** Accounting for data at each step of preprocessing can get messy. With a pipeline, you won't need to manually keep track of your training and validation data at each step.<br/>
