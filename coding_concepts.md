@@ -36,3 +36,4 @@ Else
     - Map/Set for O(1) time & O(n) space
     - Sort input for O(nlogn) time and O(1) space
 ```
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
